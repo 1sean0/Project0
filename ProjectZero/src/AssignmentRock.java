@@ -60,7 +60,7 @@ import java.util.Scanner;
 	        Player2Input = scan.nextLine();
 	        Player2Input = Player2Input.toLowerCase();
 	      
-	        //Display Outcomes of Game
+	        //Display Outcomes of Games
 	        if (Player1Input.equals("rock") && Player2Input.equals("rock")) {
 	        	System.out.println("It's a tie");
 	        } 
